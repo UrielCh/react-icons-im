@@ -23,17 +23,25 @@ For a transparent usage:
 
 ## Direct import sample
 
-`import { ImHome } from "https://deno.land/x/react_icons_im@1.0.1/mod.ts"`
+```ts
+import { ImHome } from "https://deno.land/x/react_icons_im@1.0.1/mod.ts"
+```
 
 ## import_map import sample
 
-`import { ImHome } from "react-icons/im"`
+```ts
+import { ImHome } from "react-icons/im"
+```
 
 ## minimal import
 
-`import { ImHome } from "react-icons/im/ImHome.ts"`
+```ts
+import { ImHome } from "react-icons/im/ImHome.ts"
+```
 
-## minimal import default
+## minimal import using default export
 
-`import ImHome from "react-icons/im/ImHome.ts"`
+```ts
+import ImHome from "react-icons/im/ImHome.ts"
+```
 
