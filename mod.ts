@@ -416,7 +416,6 @@ export { ImSubscript } from './ico/ImSubscript.ts';
 export { ImSuperscript2 } from './ico/ImSuperscript2.ts';
 export { ImSubscript2 } from './ico/ImSubscript2.ts';
 export { ImTextColor } from './ico/ImTextColor.ts';
-export { ImPagebreak } from './ico/ImPagebreak.ts';
 export { ImClearFormatting } from './ico/ImClearFormatting.ts';
 export { ImTable } from './ico/ImTable.ts';
 export { ImTable2 } from './ico/ImTable2.ts';
