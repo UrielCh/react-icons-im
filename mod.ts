@@ -44,7 +44,7 @@
  * or using default export
  * 
  * ```ts
- * import ImHome from "react-icons/im/ImHome.ts"
+ * import ImHome from "react-icons/im/ImHome"
  * ```
  * @module
  * 
