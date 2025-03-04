@@ -2,7 +2,7 @@
   "lock": false,
   "name": "@preact-icons/im",
   "license": "CC BY 4.0 License",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "exports": {
     ".": "./mod.ts",
     "./Im500Px": "./ico/Im500Px.ts",
